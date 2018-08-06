@@ -1,6 +1,6 @@
 <?php
 
-    require_once '../temp.php';
+    require_once '../phpqrcode.php';
 
     $text = 'https://www.litblc.com';
     $level = 1;
